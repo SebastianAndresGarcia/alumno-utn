@@ -1,5 +1,5 @@
-hola hola
+git add archivo.extension
 
-probando
+git commit -m "algo"
 
-subiendo cambios
+git push origin nombreRama
