@@ -1,5 +1,12 @@
-git add archivo.extension
+https://elementalab.com/comandos-de-git/
+SUBIR CAMBIOS HECHOS A UN DOCUMENTO:
+1)git add archivo.extension
+2)git commit -m "algo"
+3)git push origin nombreRama
 
-git commit -m "algo"
-
-git push origin nombreRama
+CAMBIAR NOMBRE A UN DOCUMENTO:
+https://help.github.com/es/github/managing-files-in-a-repository/renaming-a-file-using-the-command-line
+1)git mv old_filename new_filename
+2)git status para comprobar los nombres de archivo antiguo y nuevo.
+3)git commit -m "algo"
+4)git push origin nombreRama
